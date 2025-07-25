@@ -49,6 +49,3 @@ sudo ./add_varnish_hestiacp.sh
 2. Commit your changes
 3. Open a pull request for review
 
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
