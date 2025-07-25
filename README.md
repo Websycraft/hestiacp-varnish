@@ -17,7 +17,7 @@ Internet → Nginx (SSL termination on 80/443) → Varnish (6081) → Hestia Ngi
 
 ```bash
 # Clone the repository and make the installer executable
-git clone https://github.com/<your-org>/hestiacp-varnish.git
+git clone https://github.com/Websycraft/hestiacp-varnish.git
 cd hestiacp-varnish
 chmod +x add_varnish_hestiacp.sh
 
